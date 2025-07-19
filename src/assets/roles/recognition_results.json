@@ -1,0 +1,727 @@
+{
+  "A": {
+    "A_Astronaut_Brown.jpg": [
+      "Cocoa",
+      "Grape_Juice",
+      "Carbonara"
+    ],
+    "A_Beach_King_Brown.jpg": [
+      "Strawberry_Juice",
+      "Vanilla_Ice_Cream",
+      "Grape_Sherbet"
+    ],
+    "A_Calico_Cat_Brown.jpg": [
+      "Egg_On_Toast",
+      "Salmon",
+      "Yakisoba"
+    ],
+    "A_Clucky_Brown.jpg": [
+      "Egg",
+      "Pumpkin_Soup",
+      "Chilled_Chinese_Noodle"
+    ],
+    "A_Coffee_Cup_Brown.jpg": [
+      "Espresso",
+      "Cafe_Latte",
+      "Vienna_Coffee"
+    ],
+    "A_Devil_Brown.jpg": [
+      "Chilli",
+      "Tan_Tan_Noodle",
+      "Spicy_Potato_Pizza"
+    ],
+    "A_Duster_Brown.jpg": [
+      "Hot_Dog",
+      "Strawberry_Juice",
+      "Lasagne"
+    ],
+    "A_Fireman_Brown.jpg": [
+      "Pork_Skewers",
+      "Katsu_Rice_Bowl",
+      "Eel_Sushi"
+    ],
+    "A_Flower_Sally.jpg": [
+      "Strawberry_Ice_Cream_Crepe",
+      "Fruit_Tart",
+      "Fruit_Yoghurt"
+    ],
+    "A_Football_Club_Brown.jpg": [
+      "Hamburger",
+      "Pork_Broth_Ramen",
+      "Pork_Rice_Bowl"
+    ],
+    "A_Franken_Brown.jpg": [
+      "Sweet_Dumplings",
+      "Zongzi",
+      "Hot_Dog"
+    ],
+    "A_Hawaiian_Brown.jpg": [
+      "Apple_Pie",
+      "Syrup",
+      "Chocolate_Ice_Cream"
+    ],
+    "A_Hipster_Brown.jpg": [
+      "Strawberry_Juice",
+      "Apple_Cinnamon_Crepe",
+      "Strawberry_Ice_Cream"
+    ],
+    "A_Kid_Moon.jpg": [
+      "Honey_Toast",
+      "Hujiao_Bing",
+      "Hamburger"
+    ],
+    "A_Maneki_Neko_Brown.jpg": [
+      "Pork_Broth_Ramen",
+      "Katsu_Rice_Bowl",
+      "Sweet_Bean_Jelly"
+    ],
+    "A_Officer_Brown.jpg": [
+      "Hot_Chocolate",
+      "Sweet_Bean_Jelly",
+      "Matcha_Tea"
+    ],
+    "A_Princess_Cony.jpg": [
+      "Pancakes",
+      "Canola_Honey",
+      "Skirt"
+    ],
+    "A_Romantic_Winter_Brown.jpg": [
+      "Tuna_Rice_Bowl",
+      "Salmon_Steak",
+      "Eel_Rice_Bowl"
+    ],
+    "A_Rose_Cony.jpg": [
+      "Sweet_Bean_Jelly",
+      "Apple_Cinnamon_Crepe",
+      "Cocoa"
+    ],
+    "A_Safari_Brown.jpg": [
+      "Seafood_Rice_Bowl",
+      "Silver_Ingot",
+      "Spicy_Prawns"
+    ],
+    "A_Santa_Cony.jpg": [
+      "Salmon_Sushi",
+      "Skirt",
+      "Apple_Juice"
+    ],
+    "A_Shio_Ramen_Brown.jpg": [
+      "Butter",
+      "Skirt",
+      "Ruby"
+    ],
+    "A_Ski_Jumper_Sally.jpg": [
+      "Tuna_Rice_Bowl",
+      "Eel_Rice_Bowl",
+      "Macha_IceCream"
+    ],
+    "A_Summer_Break_Cony.jpg": [
+      "Fruit_Tart",
+      "Apple_Juice",
+      "Tomato_Juice"
+    ],
+    "A_Super_Brown.jpg": [
+      "Red_Bean_Soup",
+      "Jam_Pancake",
+      "Sponge_Cake"
+    ],
+    "A_Sweets_Brown.jpg": [
+      "Chocolate_Ice_Cream",
+      "Matcha_Tea",
+      "Sweet_Bean_Jelly"
+    ],
+    "A_Sweet_Potato_Brown.jpg": [
+      "Sugar",
+      "New_Year_Rice_Cake",
+      "Croquette"
+    ],
+    "A_Tranditional_Grab_Leonard.jpg": [
+      "Chocolate_Ice_Cream",
+      "Tuna_Rice_Bowl",
+      "Ruby"
+    ],
+    "A_Tranditional_Wedding_Cony.jpg": [
+      "Red_Bean_Soup",
+      "Stinky_Tofu",
+      "Apple_Pie"
+    ],
+    "A_Tropic_Brown.jpg": [
+      "Carrot_Juice",
+      "Fruit_Tart",
+      "Salmon_Steak"
+    ],
+    "A_Uniform_Moon.jpg": [
+      "Salmon_Sushi",
+      "Eel_Rice_Bowl",
+      "Shoyu_Ramen"
+    ],
+    "A_Vampire_Brown.jpg": [
+      "Shoyu_Ramen",
+      "Coffee_Bean",
+      "Pork_Rice_Bowl"
+    ],
+    "A_Warrior_Brow.jpg": [
+      "Eel_Rice_Bowl",
+      "Katsu_Rice_Bowl",
+      "Apple_Pie"
+    ],
+    "A_White_Umbrella_Brown.jpg": [
+      "Pork_Broth_Ramen",
+      "Apple_Pie",
+      "Matcha_Tea"
+    ]
+  },
+  "B": {
+    "B_Archer_Jessica.jpg": [
+      "Panini",
+      "Castella",
+      "New_Year_Rice_Cake"
+    ],
+    "B_Astronaut_Leonard.jpg": [
+      "Zongzi",
+      "Soy_Sauce",
+      "Apple_Juice"
+    ],
+    "B_Astronaut_Sally.jpg": [
+      "Oolong_Tea",
+      "Syrup",
+      "Green_Tea"
+    ],
+    "B_Baby_Brown.jpg": [
+      "Milk",
+      "Cheese",
+      "Read_Bean"
+    ],
+    "B_Basketball_Club_Brown.jpg": [
+      "Tempura_Rice_Bowl",
+      "Ham_and_Egg_Sandwich",
+      "Spicy_Cheeseburger"
+    ],
+    "B_Beach_Celeb_Brown.jpg": [
+      "Chocolate_Crepe",
+      "Prawn",
+      "Tomato"
+    ],
+    "B_Black_Cat_Moon.jpg": [
+      "Miso",
+      "Stinky_Tofu",
+      "Pork_Rice_Bowl"
+    ],
+    "B_Chef_Brown.jpg": [
+      "Mapo_Tofu",
+      "Egg_On_Toast",
+      "Pork_Rice_Bowl"
+    ],
+    "B_Cosmos_Brown.jpg": [
+      "Affogato",
+      "Hamburger",
+      "Spicy_Cheeseburger"
+    ],
+    "B_Drummer_Brown.jpg": [
+      "Pork",
+      "Prawn",
+      "Fruit_Juice"
+    ],
+    "B_Enchanter_Brown.jpg": [
+      "Miso",
+      "Tempura_Rice_Bowl",
+      "Cabbage"
+    ],
+    "B_Festival_Dancer_Sally.jpg": [
+      "Okonomiyaki",
+      "Hot_Dog",
+      "Apple"
+    ],
+    "B_Flower_Leonard.jpg": [
+      "Cafe_Latte",
+      "Apple",
+      "Crepe"
+    ],
+    "B_Goldfish_Catcher_Brown.jpg": [
+      "Apple_Cinnamon_Crepe",
+      "Bacon_Crepe",
+      "Coffee_Bean"
+    ],
+    "B_HoneyBee_Brown.jpg": [
+      "CornBread",
+      "Tomato",
+      "Pork_Rice_Bowl"
+    ],
+    "B_Hot_Dumpling_Brown.jpg": [
+      "Soy_Sauce",
+      "Dumpling",
+      "Strawberry_Juice"
+    ],
+    "B_Ice_Hockey_Brown.jpg": [
+      "Roll_Cake",
+      "Waffles",
+      "Yakisoba"
+    ],
+    "B_Kid_Leonard.jpg": [
+      "Sponge_Cake",
+      "Apple_Juice",
+      "Strawberry_Juice"
+    ],
+    "B_Kid_Sally.jpg": [
+      "Tomato_Juice",
+      "Mooncake",
+      "Soy_Sauce"
+    ],
+    "B_Leaf_Umbrella_Leonard.jpg": [
+      "Shoyu_Ramen",
+      "Croquette",
+      "Apple_Pie"
+    ],
+    "B_Maneki_Neko_James.jpg": [
+      "Green_Tea",
+      "Sweet_Bean_Jelly",
+      "Matcha_Tea"
+    ],
+    "B_Maneki_Neko_Sally.jpg": [
+      "Sweet_Bean_Jelly",
+      "Matcha_Tea",
+      "Stinky_Tofu"
+    ],
+    "B_Miso_Ramen_Brown.jpg": [
+      "Miso",
+      "Cabbage",
+      "Apple"
+    ],
+    "B_Modern_Wedding_Brown.jpg": [
+      "Apple_Cinnamon_Crepe",
+      "Apple_Juice",
+      "Salmon_Sushi"
+    ],
+    "B_Mop_Brown.jpg": [
+      "Eel_Rice_Bowl",
+      "Katsu_Rice_Bowl",
+      "Apple_Pie"
+    ],
+    "B_Musician_Brown.jpg": [
+      "Macaron",
+      "Tomato",
+      "Apple"
+    ],
+    "B_Pink_Ranger_Brown.jpg": [
+      "Espresso",
+      "Croquette",
+      "Pork"
+    ],
+    "B_Prince_James.jpg": [
+      "Pork",
+      "Prawn",
+      "Tomato"
+    ],
+    "B_Prince_Leonard.jpg": [
+      "Matcha_Roll_Cake",
+      "Cabbage",
+      "French_Fries"
+    ],
+    "B_Prince_Moon.jpg": [
+      "Carbonara",
+      "Hot_Dog",
+      "Crepe"
+    ],
+    "B_Red_Cape_Brown.jpg": [
+      "Apple_Juice",
+      "Strawberry_Juice",
+      "Hot_Dog"
+    ],
+    "B_Red_Umbrella_Cony.jpg": [
+      "Strawberry_Crepe",
+      "Strawberry_Ice_Cream",
+      "Cocoa"
+    ],
+    "B_Relndeer_Brown.jpg": [
+      "Chinese_Fried_Rice",
+      "Coffee_Bean",
+      "Soy_Sauce"
+    ],
+    "B_Romantic_Winter_Sally.jpg": [
+      "Apple_Pie",
+      "Seafood_Rice_Bowl",
+      "Cabbage"
+    ],
+    "B_Safari_Cony.jpg": [
+      "Silver_Ore",
+      "Matcha_Tea",
+      "Eel_Rice_Bowl"
+    ],
+    "B_Safari_Sally.jpg": [
+      "Glod_Ore",
+      "Eel_Rice_Bowl",
+      "Sweet_Bean_Jelly"
+    ],
+    "B_Shoyu_Ramen_Brown.jpg": [
+      "Soy_Sauce",
+      "Shoyu_Ramen",
+      "Apple_Juice"
+    ],
+    "B_Soccer_Club_Brown.jpg": [
+      "Prawn",
+      "CornBread",
+      "Pork"
+    ],
+    "B_Sorcerer_Brown.jpg": [
+      "Tomato",
+      "Apple",
+      "Potato"
+    ],
+    "B_Speed_Skier_Brown.jpg": [
+      "Fruit_Tart",
+      "Apple_Pie",
+      "Espresso"
+    ],
+    "B_Squirrella_Brown.jpg": [
+      "Bread",
+      "Fruit_Juice",
+      "Carrot"
+    ],
+    "B_Summer_Break_Leonard.jpg": [
+      "Jam_Pancake",
+      "Apple_Pie",
+      "Eel"
+    ],
+    "B_Summer_Break_Sally.jpg": [
+      "Eel",
+      "Spicy_Prawns",
+      "Sugar"
+    ],
+    "B_Summer_Brown.jpg": [
+      "French_Fries",
+      "Apple",
+      "Tomato"
+    ],
+    "B_Sweets_Jessica.jpg": [
+      "Strawberry_Cake",
+      "Apple_Juice",
+      "Strawberry_Juice"
+    ],
+    "B_Tour_Guide_Sally.jpg": [
+      "Strawberry_Mochi",
+      "Chilled_Chinese_Noodle",
+      "Panini"
+    ],
+    "B_Tranditional_Garb_Brown.jpg": [
+      "Chilled_Chinese_Noodle",
+      "Panini",
+      "Skirt"
+    ],
+    "B_Tranditional_Garb_Sally.jpg": [
+      "Wool_Cloth",
+      "Strawberry_Mochi",
+      "Tomato_Juice"
+    ],
+    "B_Tranditional_Wedding_Brown.jpg": [
+      "Miso",
+      "Katsu_Rice_Bowl",
+      "Eel_Rice_Bowl"
+    ],
+    "B_Tranditional_Wedding_James.jpg": [
+      "Pumpkin_Pie",
+      "Oolong_Tea",
+      "Green_Tea"
+    ],
+    "B_Tropic_Cony.jpg": [
+      "Hot_Chocolate",
+      "Apple_Pie",
+      "Jam_Pancake"
+    ],
+    "B_Trumpet_Player_Brown.jpg": [
+      "Bread",
+      "Ham_and_Egg_Sandwich",
+      "Carrot"
+    ],
+    "B_Uniform_Leonard.jpg": [
+      "Mapo_Tofu",
+      "Hot_Dog",
+      "Potato"
+    ],
+    "B_WANNEBE_Dino_Brown.jpg": [
+      "Pork_Rice_Bowl",
+      "Cabbage",
+      "Pumpkin"
+    ],
+    "B_White_Cat_Brown.jpg": [
+      "Prawn",
+      "Milk",
+      "Tomato"
+    ],
+    "B_Wizard_Moon.jpg": [
+      "Katsu_Rice_Bowl",
+      "Apple_Pie",
+      "Pork_Broth_Ramen"
+    ],
+    "B_W_Brown_4.jpg": [
+      "Fruit_Yoghurt",
+      "Apple_Juice",
+      "Fruit_Juice"
+    ],
+    "B_Yellow_Ranger_Brwon.jpg": [
+      "Bacon_Crepe",
+      "Pumpkin",
+      "Apple"
+    ]
+  },
+  "C": {
+    "C_Cleaner_Brown.jpg": [
+      "Pumpkin",
+      "Cabbage",
+      "Apple"
+    ],
+    "C_PoliceMan_Brown.jpg": [
+      "Hamburger",
+      "Spicy_Cheeseburger",
+      "Cabbage"
+    ],
+    "C_Romantic_Winter_Leonard.jpg": [
+      "Croquette",
+      "Pork_Rice_Bowl",
+      "Gratin"
+    ],
+    "C_Romantic_Winter_Moon.jpg": [
+      "Hamburger",
+      "Spicy_Cheeseburger",
+      "Cabbage"
+    ],
+    "C_Safari_Leonard.jpg": [
+      "Bacon_Crepe",
+      "Pork",
+      "Potato"
+    ],
+    "C_Safari_Moon.jpg": [
+      "Hamburger",
+      "Spicy_Cheeseburger",
+      "Cabbage"
+    ],
+    "C_Sweets_Leonard.jpg": [
+      "Melon_Bread",
+      "Matcha_Roll_Cake",
+      "Tempura_Rice_Bowl"
+    ],
+    "C_Tropic_Jessica.jpg": [
+      "Vienna_Coffee",
+      "Milk",
+      "Read_Bean"
+    ],
+    "C_Tropic_Moon.jpg": [
+      "Apple_Juice",
+      "Soy_Sauce",
+      "Strawberry_Juice"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_10.jpg": [
+      "CornBread",
+      "Tomato",
+      "Pork_Skewers"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_11.jpg": [
+      "Apple",
+      "Tomato",
+      "Potato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_12.jpg": [
+      "Pumpkin",
+      "Tomato",
+      "Apple"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_13.jpg": [
+      "Ham_and_Egg_Sandwich",
+      "CornBread",
+      "Pumpkin"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_14.jpg": [
+      "Spicy_Cheeseburger",
+      "Tempura_Rice_Bowl",
+      "Hamburger"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_15.jpg": [
+      "Vienna_Coffee",
+      "Sugar",
+      "Potato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_16.jpg": [
+      "CornBread",
+      "Pumpkin",
+      "Pork_Rice_Bowl"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_17.jpg": [
+      "Tempura_Rice_Bowl",
+      "Melon_Bread",
+      "Matcha_Roll_Cake"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_18.jpg": [
+      "Tomato",
+      "Apple",
+      "Carrot"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_19.jpg": [
+      "French_Fries",
+      "Pumpkin",
+      "Apple"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_20.jpg": [
+      "CornBread",
+      "Cabbage",
+      "Apple"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_21.jpg": [
+      "Hot_Dog",
+      "Potato",
+      "Carrot"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_22.jpg": [
+      "Crepe",
+      "Bacon_Crepe",
+      "Potato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_23.jpg": [
+      "Pork_Rice_Bowl",
+      "Croquette",
+      "Pork_Skewers"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_24.jpg": [
+      "Eel",
+      "Coffee_Bean",
+      "Prawn"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_25.jpg": [
+      "Read_Bean",
+      "Prawn",
+      "Potato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_26.jpg": [
+      "Fresh_Cream",
+      "Crepe",
+      "Potato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_27.jpg": [
+      "Coffee_Bean",
+      "Potato",
+      "Carrot"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_28.jpg": [
+      "Eel",
+      "Coffee_Bean",
+      "Potato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_29.jpg": [
+      "Necklace",
+      "Pork",
+      "Coffee_Bean"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_30.jpg": [
+      "Okonomiyaki",
+      "Pumpkin",
+      "CornBread"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_31.jpg": [
+      "Pork_Rice_Bowl",
+      "Tomato",
+      "Pork_Skewers"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_32.jpg": [
+      "Mapo_Tofu",
+      "Pork_Rice_Bowl",
+      "Cabbage"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_33.jpg": [
+      "Donuts",
+      "Pumpkin",
+      "Ham_and_Egg_Sandwich"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_34.jpg": [
+      "Pork_Skewers",
+      "Apple",
+      "Tomato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_35.jpg": [
+      "Miso_Ramen",
+      "Panini",
+      "CornBread"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_36.jpg": [
+      "Dumpling",
+      "Hot_Dog",
+      "Read_Bean"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_37.jpg": [
+      "Donuts",
+      "Pumpkin",
+      "Ham_and_Egg_Sandwich"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_38.jpg": [
+      "Fresh_Cream",
+      "Spicy_Prawns",
+      "Melon_Bread"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_39.jpg": [
+      "Fresh_Cream_Cake",
+      "Tempura_Rice_Bowl",
+      "Affogato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_4.jpg": [
+      "Potato",
+      "Tomato",
+      "Apple"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_45.jpg": [
+      "CornBread",
+      "Carrot",
+      "Tomato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_5.jpg": [
+      "Popcorn",
+      "French_Fries",
+      "Read_Bean"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_6.jpg": [
+      "Carrot",
+      "Potato",
+      "Tomato"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_7.jpg": [
+      "Sugar",
+      "Tempura_Rice_Bowl",
+      "Fresh_Cream"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_8.jpg": [
+      "Crepe",
+      "Melon_Bread",
+      "Donuts"
+    ],
+    "LINE_ALBUM_80鑽小寵_241020_9.jpg": [
+      "Chinese_Fried_Rice",
+      "Egg_On_Toast",
+      "Tempura_Rice_Bowl"
+    ],
+    "LINE_ALBUM_80鑽小寵_241021_1.jpg": [
+      "Milk",
+      "Potato",
+      "Read_Bean"
+    ],
+    "LINE_ALBUM_80鑽小寵_241021_2.jpg": [
+      "Gratin",
+      "CornBread",
+      "Ham_and_Egg_Sandwich"
+    ],
+    "LINE_ALBUM_80鑽小寵_241021_3.jpg": [
+      "Cabbage",
+      "Apple",
+      "Pumpkin"
+    ],
+    "LINE_ALBUM_80鑽小寵_241021_4.jpg": [
+      "Vienna_Coffee",
+      "Milk",
+      "Potato"
+    ]
+  },
+  "S": {
+    "S_Honeybee_Sally.jpg": [
+      "Tuna_Rice_Bowl",
+      "Eel_Rice_Bowl",
+      "Matcha_Tea"
+    ],
+    "S_Pirate_Brown.jpg": [],
+    "S_W_Brown_2.jpg": []
+  }
+}
